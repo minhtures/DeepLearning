@@ -5,3 +5,7 @@ Thực hiện bởi nhóm 7:
 - Nguyễn Đức Tú
 - Phạm Quốc Việt
 - Nguyễn Tiến Mạnh
+
+Các thư viện cần sử dụng:
+- VNCoreNLP
+- transform: để sử dụng pre-trained model PhoBERT
