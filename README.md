@@ -7,6 +7,8 @@ Thực hiện bởi nhóm 7:
 - Nguyễn Tiến Mạnh
 
 Các thư viện cần sử dụng:
+- các mô hình được huấn luyện với tensorflow
+-  Xử lý dữ liệu và đánh giá kết quả bằng sklearn
 - VNCoreNLP: để tách từ
 - transform: để sử dụng pre-trained model PhoBERT
 - mô hình W2Vec pretrain: https://github.com/sonvx/word2vecVN
