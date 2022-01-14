@@ -6,7 +6,14 @@ Thực hiện bởi nhóm 7:
 - Phạm Quốc Việt
 - Nguyễn Tiến Mạnh
 
-Các thư viện cần sử dụng:
+## Đề tài: Phân loại chủ đề cho văn bản báo chí
+- Dữ liệu tự thu thập từ các trang báo điện tử với hơn 24 nghìn bài báo thuộc 12 chủ đề (số lượng mỗi chủ để tương đương nhau)
+- Sử dụng 3 phương pháp khác nhau để mã hóa và huấn luyện
+  + TFIDF
+  + Word2Vec
+  + PhoBERT
+
+## Các thư viện cần sử dụng:
 - các mô hình được huấn luyện với tensorflow
 -  Xử lý dữ liệu và đánh giá kết quả bằng sklearn
 - VNCoreNLP: để tách từ
